@@ -14,11 +14,7 @@ Welcome to my corner of the internet. This is where I write about what I'm build
 
 ## ✍️ Latest writing
 
-- *Coming soon.* My first post is on the way.
-
-<!-- Add posts as wikilinks once they exist, e.g.
-- [[posts/hello-world|Hello, world]]: why I started this blog
--->
+- [[posts/daily-tarot-onboarding|Breaking down my Daily Tarot onboarding screen]]: a hand-built calendar grid, a draggable clock dial, and staggered animations in Flutter
 
 ## 🧭 What I write about
 
