@@ -16,6 +16,10 @@ Welcome to my corner of the internet. This is where I write about what I'm build
 
 - [[posts/daily-tarot-onboarding|Breaking down my Daily Tarot onboarding screen]]: a hand-built calendar grid, a draggable clock dial, and staggered animations in Flutter
 
+## 📚 해리슨의 강의
+
+A beginner Dart course I wrote (in Korean) for my 후배s: [[harrison-lectures/index|해리슨의 강의: Dart 기초]]
+
 ## 🧭 What I write about
 
 - **Building things**: projects, experiments, and lessons from shipping
