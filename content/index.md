@@ -12,6 +12,10 @@ Welcome to my corner of the internet. This is where I write about what I'm build
 > [!tip] New here?
 > Start with the posts below, or use the search bar (`Ctrl/⌘ + K`) to find something specific. Links between notes are part of the fun, so feel free to wander.
 
+## 🌱 Currently learning
+
+**Flutter animations**: a nine-lesson path from implicit animations to physics, `CustomPainter`, and Rive/Lottie. I'm on lesson 1 (implicit animations). Follow along: [[learning/flutter-animations|Now learning: Flutter animations]]
+
 ## ✍️ Latest writing
 
 - [[posts/daily-tarot-onboarding|Breaking down my Daily Tarot onboarding screen]]: a hand-built calendar grid, a draggable clock dial, and staggered animations in Flutter
